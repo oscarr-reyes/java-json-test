@@ -1,0 +1,15 @@
+{
+  "ID": "2399585",
+  "StartDateUtc": "2020-02-27 13:00:00.000",
+  "EndDateUtc": "2020-02-27 23:00:00.000",
+  "HomeTeamName": "Video Capture",
+  "GuestTeamName": "Video Distribution",
+  "HomeTeamSets": "0",
+  "GuestTeamSets": "0",
+  "HomeTeamSetScore": null,
+  "GuestTeamSetScore": "0",
+  "StreamUrl": "http://10.134.10.112:8000/live/DEFAULT_STREAMING/index.m3u8",
+  "VodUrl": "http://oppia-vod.akamaized.net/vod/6447682/index.m3u8",
+  "RtmpUrl": "rtmp://10.134.10.112/live/STREAMING_TEST_HONOR_20_2",
+  "Contest": "GS-MED"
+}
